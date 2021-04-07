@@ -36,31 +36,31 @@ public class UserTest {
         Assert.assertEquals("is not OK",expected, actual);
     }
 
-    @Test
-    public void testGetAllUsers() {
-    }
-
-    @Test
-    public void getHowManyUsers() {
-    }
-
-    @Test
-    public void testGetHowManyUsers() {
-    }
-
-    @Test
-    public void getAllAgeUsers() {
-    }
-
-    @Test
-    public void testGetAllAgeUsers() {
-    }
-
-    @Test
-    public void getAverageAgeOfAllUsers() {
-    }
-
-    @Test
-    public void testGetAverageAgeOfAllUsers() {
-    }
+//    @Test
+//    public void testGetAllUsers() {
+//    }
+//
+//    @Test
+//    public void getHowManyUsers() {
+//    }
+//
+//    @Test
+//    public void testGetHowManyUsers() {
+//    }
+//
+//    @Test
+//    public void getAllAgeUsers() {
+//    }
+//
+//    @Test
+//    public void testGetAllAgeUsers() {
+//    }
+//
+//    @Test
+//    public void getAverageAgeOfAllUsers() {
+//    }
+//
+//    @Test
+//    public void testGetAverageAgeOfAllUsers() {
+//    }
 }
